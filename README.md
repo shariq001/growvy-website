@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Social Swirl Probation Assignment (Internship Project)
 
-## Getting Started
+This project was completed as part of the **Probation Period Assignment** at **Social Swirl** during my internship. I successfully built and deployed a fully responsive web application using **Next.js** and **Tailwind CSS**.
 
-First, run the development server:
+The project focuses on modern UI/UX, mobile responsiveness, and clean code structure. It's live and hosted on **Vercel**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Deployment:** [Vercel](https://vercel.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Live Project
 
-To learn more about Next.js, take a look at the following resources:
+[View Deployed Website](https://growvy-website-muhammadshariq.vercel.app/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## About Me
 
-## Deploy on Vercel
+Hi, I’m **Muhammad Shariq** — an aspiring software engineer passionate about building clean and modern web applications.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [LinkedIn](https://www.linkedin.com/in/muhammad---shariq)
+- [My Portfolio](https://my-personal-portfolio-eight-delta.vercel.app/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Responsiveness
+
+This project is **fully responsive**, optimized for all screen sizes including mobile, tablet, and desktop.
+
+---
+
+## Features
+
+- ✅ Modern and clean UI
+- ✅ Responsive layout with Tailwind CSS
+- ✅ Built with Next.js (App Router or Pages Router)
+- ✅ Deployed on Vercel
+- ✅ Part of Social Swirl’s probation period evaluation
+
+---
+
+## Status
+
+✅ **Successfully Completed**  
+📅 Internship Probation Task – Social Swirl
+
+
+---
