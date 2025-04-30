@@ -1,0 +1,15 @@
+This is purely written by me (Muhammad Shariq).
+
+Firstly, the challenge of images so for this I used chatgpt and he answered me for using Adobe Acrobat and I used it for downloading images from the pdf and the remaining ones I used snipping tool for that and that really worked. 
+
+Secondly, the circle in the homepage as part of a design was some kind of difficult but then I came up to it by myself by using a div at that place with proper positioning and all the things.
+
+Thirdly, there were some boxes with gradient borders which were some kind of difficult for me but then i used chatgpt for that and came up with the solution.
+
+I used NextJs framework and tailwind css for styling which literally helped me a lot in this project as I love it truly.
+
+The website is fully responsive for all the devices including mobiles and tablets. 
+
+I also used the animation in the pages (not in home page) with the help of framer motion which is commonly used in NextJs projects for animations.
+
+I loved working with this project and it also increased my experience at this field. I would love to contribute for the future at your company.
